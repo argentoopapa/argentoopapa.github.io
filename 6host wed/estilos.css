@@ -1,0 +1,43 @@
+header { background:#884EA0 
+}
+ #pie { background: black  ;color:  white
+    
+ }
+p { 
+font-size: 15px;
+font-family: arial;
+}
+div {
+    border: 1px solid black;
+    display: block;
+} 
+ body { 
+    text-align:center; 
+}
+div {
+ 
+  margin: auto;
+  width: 1500px;
+  padding : 0px;
+}
+.menu {
+ padding: 1px ;
+ text-align: left;
+}
+.menu li {
+    list-style: none;
+    text-align: left;
+    display: inline-block;
+padding: 5px ;
+
+}
+.sexo {
+    width : 600px ;
+   
+}
+.tiempo {
+    text-align: left;
+}
+.fondo {
+background : #B3B6B7
+}
